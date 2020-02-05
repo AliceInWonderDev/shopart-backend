@@ -50,3 +50,21 @@ The data to be store of an **Order** is defined as follow:
 - Product ID 
 - Total
 - Created At
+
+
+# Database
+
+how to create a postgres database
+
+`$ createdb  <db name>`
+
+how to access:
+
+`$ psql <db name>`
+
+useful command:
+
+`$ psql >  \d` # database detail
+`$ psql >  \d table_name` # table detail
+`$ psql >  \q` # exit
+
