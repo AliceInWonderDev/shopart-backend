@@ -65,6 +65,8 @@ how to access:
 useful command:
 
 `$ psql >  \d` # database detail
+
 `$ psql >  \d table_name` # table detail
+
 `$ psql >  \q` # exit
 
